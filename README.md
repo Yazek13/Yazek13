@@ -1,5 +1,5 @@
 <h1 align = "center"> Привет 👋, я Дмитрий </h1>
-<h3 align = "center"> Разработчик внешнего интерфейса </h3>
+<h3 align = "center"> c++ programming for unreal game development </h3>
 
 - 🌱 Я сейчас изучаю ** Unreal Engine 5 **
 
